@@ -16,7 +16,7 @@
     <a href="https://twitter.com">
         <img align="center" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="https://hummadpathan.me">
+    <a href="https://hummadpathan.netlify.app">
         <img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ionic&logoColor=18A303" alt="https://mohit-portfolio.vercel.app/" />
     </a>
 </p>
